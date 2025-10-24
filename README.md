@@ -1,6 +1,6 @@
-# Whispr Chat App
+# HerENS
 
-A decentralized chat application built with Solidity and Foundry, featuring peer-to-peer messaging, group chats, and integration with Chainlink oracles for price feeds.
+A decentralized chat application built with Solidity and Foundry, featuring peer-to-peer messaging, group chats, and user registration with display names
 
 ## Contracts
 
@@ -9,8 +9,8 @@ A decentralized chat application built with Solidity and Foundry, featuring peer
 
 ## Deployed Contracts
 
-- **WhisprChat**: 0xE7006E90c1E4738a04AD613F47CD9B684103cC84 (Base Sepolia)
-- **WhisprRegistry**: 0xbd5D3DC991c9d4dc924ca9a1572fb67fe9C95ba0 (Base Sepolia)
+- **WhisprChat**: [0x135Ddb25bf49cD5fDb10191E5fdE6bCa826ca784](https://sepolia.basescan.org/address/0x135Ddb25bf49cD5fDb10191E5fdE6bCa826ca784) (Base Sepolia)
+- **WhisprRegistry**: [0xe60a2cF8c889f7637a54f789052B6011e5F21abe](https://sepolia.basescan.org/address/0xe60a2cF8c889f7637a54f789052B6011e5F21abe) (Base Sepolia)
 
 ## Foundry
 
@@ -85,4 +85,3 @@ $ cast <subcommand>
 $ forge --help
 $ anvil --help
 $ cast --help
-# HerENS
